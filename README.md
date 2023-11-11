@@ -1,15 +1,6 @@
 # IT 1600 Challenge!
 ### For this challenge, I will be discussing the photography and art I have done in the past. 
 
-<style>
-    img[alt=Kamakura]{
-        max-width: 100%
-    }
-    img[alt=Dream5]{
-        max-width: 100%
-    }
-</style>
-
 |Most recent photo  | Most recent art piece  |
 | :-----------: | :-----------: |
 |![Kamakura](Kamakura.png) |![Dream5](DreamSeries5.png)|
